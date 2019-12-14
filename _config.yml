@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Joshua Brault
 tagline:          'Joshua Brault'
-description:      'Economics PhD at Carleton University. Research in Macroeconomics.'
+description:      'PhD Candidate in Economics at Carleton University'
 url:              https://braultjosh.github.io
 baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
