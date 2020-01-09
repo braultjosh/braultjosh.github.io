@@ -1,0 +1,8 @@
+
+Set current directory
+
+cd C:/Users/braul/Github/braultjosh.github.io/
+
+Build a temporary site
+
+bundle exec jekyll serve
