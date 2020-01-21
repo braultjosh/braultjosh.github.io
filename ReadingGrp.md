@@ -14,4 +14,5 @@ Our reading group meets roughly once/twice per month to discuss recent papers an
 
 <b> November 27, 2019 </b>: Discussion of "Earnings-Based Borrowing Constraints and Macroeconomic Fluctuations" by Thomas Drechsel.
 
-January 22, 2020:
+<b> January 22, 2020 </b>: Discussion of "A Flexible Finite-Horizon Alternative to Long-run Restrictions with an Application to Technology Shocks" by Neville Francis, Michael T. Owyang, Jennifer Roush,
+and Riccardo DiCecio.
