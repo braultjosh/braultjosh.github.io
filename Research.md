@@ -7,12 +7,10 @@ sidebar_sort_order: 2
 ---
 ### <font size="6"> Research  </font>
 
---- ### <font size="4"> Completed Working Papers </font>
-
 
 ### <font size="4">  Publications  </font>
 
-<ol>
+<ol reversed>
 
 <font size="2"> <li>  <b> The real interest rate channel <em> is </em> structural in contemporary New-Keynesian models </b> (with Hashmat Khan).  Accepted in <i> Journal of Money, Credit and Banking</i>. October, 2019. [<a href="https://ideas.repec.org/p/car/carecp/19-05.html" style="color:#1F45FC">Link</a>]  [<a href="https://github.com/braultjosh/BK2019JMCB" style="color:#1F45FC">Replication Files</a>]</li> </font>
 
