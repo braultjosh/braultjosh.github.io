@@ -16,3 +16,5 @@ Our reading group meets roughly once/twice per month to discuss recent papers an
 
 <b> January 22, 2020 </b>: Discussion of "A Flexible Finite-Horizon Alternative to Long-run Restrictions with an Application to Technology Shocks" by Neville Francis, Michael T. Owyang, Jennifer Roush,
 and Riccardo DiCecio.
+
+<b> Febuary 12, 2020 </b>: Discussion of "The Long-Run Effects of Monetary Policy" by Oscar Jorda, Sanjay Singh, and Alan Taylor.
