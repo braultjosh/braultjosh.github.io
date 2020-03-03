@@ -13,8 +13,6 @@ sidebar_sort_order: 2
 
 <font size="2"> <li>  <b> Detecting cyclical asymmetry: The filter matters</b>.  [<a href="braultjosh.github.io/Filtering_Brault_V4.pdf" style="color:#1F45FC">Link </a>]</li> </font>
 
-{{braultjosh.github.io}}/pdfs/Filtering_Brault_V4.pdf
-
 [<a href="braultjosh.github.io/pdfs/Filtering_Brault_V4.pdf" target="_blank">PDF.</a>]
 
 </ol>
