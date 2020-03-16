@@ -10,7 +10,7 @@ sidebar_sort_order: 1
 Welcome to my website. I am a PhD candidate in Economics at Carleton University in Ottawa, Canada. I am in my fourth year of the PhD program. My research interests are in macroeconomics.
 <br>
 <br>
-To read my Curriculum Vitae, please click <a href="https://braultjosh.github.io/BRAULT_CV_NOV2019.pdf" style="color:#1F45FC" target="blank">[here]</a>.
+To read my Curriculum Vitae, please click <a href="https://braultjosh.github.io/BRAULT_CV_MAR2020.pdf" style="color:#1F45FC" target="blank">[here]</a>.
 <br>
 <br>
 You can contact me via email at: joshua [dot] brault [at] carleton [dot] ca
