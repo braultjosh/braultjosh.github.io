@@ -30,6 +30,6 @@ sidebar_sort_order: 2
 
 <ol reversed>
 
-<font size="2"> <li>  <b> Replication of Smets and Wouters (2007, AER) Table 6 </b>. [<a href="https://braultjosh.github.io/pdfs/SW_Table6_V1.pdf" style="color:#1F45FC" target="blank">PDF</a>] [<a href="https://github.com/braultjosh/SW2007_Table6" style="color:#1F45FC">Replication Files</a>] </li></font>
+<font size="2"> <li>  <b> Replication of Smets and Wouters (2007, AER) Table 6</b>. [<a href="https://braultjosh.github.io/pdfs/SW_Table6_V1.pdf" style="color:#1F45FC" target="blank">PDF</a>] [<a href="https://github.com/braultjosh/SW2007_Table6" style="color:#1F45FC">Replication Files</a>] </li></font>
 
 </ol>
