@@ -25,3 +25,11 @@ sidebar_sort_order: 2
 <font size="2"> <li> <b> The Shifts in Lead-Lag Properties of the US Business Cycle </b> (with Hashmat Khan). <i> Economic Inquiry </i>, Volume 58, Issue 1, January 2020, 319-334. [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.12841" style="color:#1F45FC">Link</a>]  </li> </font>
 
 </ol>
+
+### <font size="4">  Other  </font>
+
+<ol reversed>
+
+<font size="2"> <li>  <b> Replication of Smets and Wouters (2007, AER) Table 6 </b>. [<a href="https://braultjosh.github.io/pdfs/SW_Table6_V1" style="color:#1F45FC" target="blank">PDF</a>] [<a href="https://github.com/braultjosh/SW2007_Table6" style="color:#1F45FC">Replication Files</a>] </li></font>
+
+</ol>
