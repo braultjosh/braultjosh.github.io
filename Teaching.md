@@ -13,8 +13,6 @@ sidebar_sort_order: 3
 
 <font size="2">  <b> Intermediate Macroeconomics II </b> (Econ 2103). Winter 2020.
 
-
 <font size="2">  <b> Advanced Macroeconomic Theory </b> (Econ 4021). Fall 2020.
-
 
 <font size="2">  <b> Intermediate Macroeconomics II </b> (Econ 2103). Winter 2021.
