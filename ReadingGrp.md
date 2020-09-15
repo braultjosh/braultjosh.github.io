@@ -8,7 +8,9 @@ sidebar_sort_order: 4
 
 ### <font size="6"> Carleton Macroeconomics Reading Group </font>
 
-Our reading group meets roughly once/twice per month to discuss recent papers and methods in macroeconomics. The group is open to students of any degree. Please email me to get onto the email list (joshua.brault@carleton.ca) where I distribute details about the upcoming meeting.
+<strike> Our reading group meets roughly once/twice per month to discuss recent papers and methods in macroeconomics. The group is open to students of any degree. Please email me to get onto the email list (joshua.brault@carleton.ca) where I distribute details about the upcoming meeting. </strike>
+
+Unfortunately, due to the COVID-19 pandemic our reading group meetings are on hold.
 
 ### <font size="4"> Meetings  </font>
 

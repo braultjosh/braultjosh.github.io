@@ -11,10 +11,11 @@ sidebar_sort_order: 2
 
 <ol reversed>
 
-<font size="2"> <li>  <b>  Is Unconventional Monetary Policy Stabilizing? Evidence From the Great Recession and Recovery Years </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor)  [<a href="https://carleton.ca/economics/wp-content/uploads/Cewp20-11.pdf" style="color:#1F45FC" target="blank">PDF</a>] Last updated: July, 2020.  </li></font>
+<font size="2"> <li>  <b>  Is Unconventional Monetary Policy Stabilizing? Evidence From the Great Recession and Recovery Years </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). Last updated: July, 2020. [<a href="https://carleton.ca/economics/wp-content/uploads/Cewp20-11.pdf" style="color:#1F45FC" target="blank">PDF</a>]  </li></font>
 
-<font size="2"> <li>  <b> Detecting cyclical asymmetry: The filter matters</b>. [<a href="https://braultjosh.github.io/pdfs/Filtering_Brault_V5.pdf" style="color:#1F45FC" target="blank">PDF</a>] Last updated: March, 2020. </li></font>
+<font size="2"> <li>  <b> Detecting cyclical asymmetry: The filter matters</b>. Last updated: March, 2020. [<a href="https://braultjosh.github.io/pdfs/Filtering_Brault_V5.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
+<font size="2"> <li> <b> Has the US Business Cycle Become More Asymmetric? Last updated: May 2019. [<a href="https://braultjosh.github.io/pdfs/asymmetry_2019.pdf" style="color:#1F45FC" target="blank">PDF</a>]
 
 </ol>
 
