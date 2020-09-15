@@ -10,11 +10,12 @@ sidebar_sort_order: 3
 
 ### <font size="4"> Instructor - Carleton University </font>
 
+<ol>
 
-<font size="2">  <b> Intermediate Macroeconomics II </b> (Econ 2103). Winter 2020.
+<li>  <font size="2">  <b> Intermediate Macroeconomics II </b> (Econ 2103). Winter 2020. </li>
 
+<li>  <font size="2">  <b> Advanced Macroeconomic Theory </b> (Econ 4021). Fall 2020. </li>
 
-<font size="2">  <b> Advanced Macroeconomic Theory </b> (Econ 4021). Fall 2020.
+<li>  <font size="2">  <b> Intermediate Macroeconomics II </b> (Econ 2103). Winter 2021. </li> 
 
-
-<font size="2">  <b> Intermediate Macroeconomics II </b> (Econ 2103). Winter 2021.
+</ol>

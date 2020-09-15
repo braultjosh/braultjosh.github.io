@@ -15,7 +15,7 @@ sidebar_sort_order: 2
 
 <font size="2"> <li>  <b> Detecting cyclical asymmetry: The filter matters</b>. Last updated: March, 2020. [<a href="https://braultjosh.github.io/pdfs/Filtering_Brault_V5.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
-<font size="2"> <li> <b> Has the US Business Cycle Become More Asymmetric? Last updated: May 2019. [<a href="https://braultjosh.github.io/pdfs/asymmetry_2019.pdf" style="color:#1F45FC" target="blank">PDF</a>]
+<font size="2"> <li> <b> Has the US Business Cycle Become More Asymmetric? Last updated: May 2019. [<a href="https://braultjosh.github.io/pdfs/asymmetry_2019.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
 </ol>
 
