@@ -7,16 +7,19 @@ sidebar_sort_order: 1
 ### About
 <font size="3">
 <p style="line-height:1.2">
-Welcome to my website. I am a PhD candidate in Economics at Carleton University in Ottawa, Canada. I am in my fifth year of the PhD program. I am on the academic job market this year. My research interests are in macroeconomics.
+Welcome to my website. I am a PhD candidate in Economics at Carleton University in Ottawa, Canada. I am in my fifth year of the PhD program. My research interests are in macroeconomics.
 <br>
 <br>
-To read my Curriculum Vitae, please click <a href="https://braultjosh.github.io/BRAULT_CV_JUN2020.pdf" style="color:#1F45FC" target="blank">[here]</a>.
+<b> I am on the job market this year </b>
+<br>
+<br>
+To read my Curriculum Vitae, please click <a href="https://braultjosh.github.io/pdfs/brault_cv_jobmarket.pdf" style="color:#1F45FC" target="blank">[here]</a>.
 <br>
 <br>
 You can contact me via email at: joshua [dot] brault [at] carleton [dot] ca
 <br>
 <br>
-Other information about me:
+Relevant links:
 <br>
 [<a href="https://scholar.google.com/citations?user=wceJQW4AAAAJ&hl=en&oi=ao" style="color:#1F45FC">Google Scholar</a>]
 <br>
