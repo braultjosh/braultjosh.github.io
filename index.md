@@ -10,7 +10,7 @@ sidebar_sort_order: 1
 Welcome to my website. I am a PhD candidate in Economics at Carleton University in Ottawa, Canada. I am in my fifth year of the PhD program. My research interests are in macroeconomics.
 <br>
 <br>
-<b> I am on the job market during the 2020-2021 academic year. </b>
+<b> I am on the job market during the 2020-2021 academic year. I am available for online interviews. </b>
 <br>
 <br>
 To read my Curriculum Vitae, please click <a href="https://braultjosh.github.io/pdfs/brault_cv_jobmarket.pdf" style="color:#1F45FC" target="blank">[here]</a>.
