@@ -7,7 +7,7 @@ sidebar_sort_order: 1
 ### About
 <font size="3">
 <p style="line-height:1.2">
-Welcome to my website. I am a PhD candidate in Economics at Carleton University in Ottawa, Canada. I am in my fifth year of the PhD program. My research interests are in macroeconomics.
+Welcome to my website. I am a PhD candidate in Economics at Carleton University in Ottawa, Canada. I am in my fifth year of the PhD program. My research interests are in macroeconomics, business cycles, and monetary policy.
 <br>
 <br>
 <b> I am on the job market during the 2020-2021 academic year. I am available for online interviews. </b>
