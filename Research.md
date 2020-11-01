@@ -7,11 +7,17 @@ sidebar_sort_order: 2
 ---
 ### <font size="6"> Research  </font>
 
-### <font size="4">  Working papers  </font>
+### <font size="4">  Job Market Paper </font>
 
 <ol reversed>
 
-<font size="2"> <li>  <b> Monetary policy uncertainty and the cyclicality of interest rates </b>. [<a href="https://braultjosh.github.io/pdfs/jobmarketpaper.pdf" style="color:#1F45FC" target="blank">PDF</a>] [ <b> Job Market Paper </b>] </li></font>
+<font size="2"> <li>  <b> Monetary policy uncertainty and the cyclicality of interest rates </b>. [<a href="https://braultjosh.github.io/pdfs/jobmarketpaper.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
+
+</ol>
+
+### <font size="4">  Working papers  </font>
+
+<ol reversed>
 
 <font size="2"> <li>  <b>  Is Unconventional Monetary Policy Stabilizing? Evidence From the Great Recession and Recovery Years </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). Last updated: July, 2020. [<a href="https://carleton.ca/economics/wp-content/uploads/Cewp20-11.pdf" style="color:#1F45FC" target="blank">PDF</a>]  </li></font>
 
