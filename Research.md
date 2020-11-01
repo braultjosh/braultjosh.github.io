@@ -11,7 +11,7 @@ sidebar_sort_order: 2
 
 <ol reversed>
 
-<font size="2"> <li>  <b> Monetary policy uncertainty and the cyclicality of interest rates </b>. [<a href="https://braultjosh.github.io/pdfs/jobmarketpaper.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
+<font size="2"> <li>  <b> Monetary policy uncertainty and the cyclicality of interest rates</b>. [<a href="https://braultjosh.github.io/pdfs/jobmarketpaper.pdf" style="color:#1F45FC" target="blank">PDF</a>]</li></font>
 
 </ol>
 
