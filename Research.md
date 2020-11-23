@@ -7,17 +7,11 @@ sidebar_sort_order: 2
 ---
 ### <font size="6"> Research  </font>
 
-### <font size="4">  Job Market Paper </font>
-
-<ol reversed>
-
-<font size="2"> <li>  <b> Monetary policy uncertainty and the cyclicality of interest rates</b>. [<a href="https://braultjosh.github.io/pdfs/jobmarketpaper.pdf" style="color:#1F45FC" target="blank">PDF</a>]</li></font>
-
-</ol>
-
 ### <font size="4">  Working papers  </font>
 
-<ol reversed>
+<ol>
+
+<font size="2"> <li>  <b> Monetary policy uncertainty and the cyclicality of interest rates</b>. [<b> Job Market Paper </b>] [<a href="https://braultjosh.github.io/pdfs/jobmarketpaper.pdf" style="color:#1F45FC" target="blank">PDF</a>]</li></font>
 
 <font size="2"> <li>  <b>  Is Unconventional Monetary Policy Stabilizing? Evidence From the Great Recession and Recovery Years </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). Last updated: July, 2020. [<a href="https://carleton.ca/economics/wp-content/uploads/Cewp20-11.pdf" style="color:#1F45FC" target="blank">PDF</a>]  </li></font>
 
@@ -29,7 +23,7 @@ sidebar_sort_order: 2
 
 ### <font size="4">  Publications  </font>
 
-<ol reversed>
+<ol>
 
 <font size="2"> <li>  <b> The real interest rate channel <em> is </em> structural in contemporary New-Keynesian models </b> (with Hashmat Khan).  Forthcoming <i> Journal of Money, Credit and Banking</i>. October, 2019. [<a href="https://ideas.repec.org/p/car/carecp/19-05.html" style="color:#1F45FC">Link</a>]  [<a href="https://github.com/braultjosh/BK2019JMCB" style="color:#1F45FC">Replication Files</a>]</li> </font>
 
@@ -40,8 +34,8 @@ sidebar_sort_order: 2
 
 ### <font size="4">  Other  </font>
 
-<ol reversed>
+<ol>
 
-<font size="2"> <li>  <b> Replication of Smets and Wouters (2007, AER) Table 6</b>. [<a href="https://braultjosh.github.io/pdfs/SW_Table6_V1.pdf" style="color:#1F45FC" target="blank">PDF</a>] [<a href="https://github.com/braultjosh/SW2007_Table6" style="color:#1F45FC">Replication Files</a>] </li></font>
+<font size="2"> <li>  <b> Replication of Smets and Wouters (2007) Table 6</b>. [<a href="https://braultjosh.github.io/pdfs/SW_Table6_V1.pdf" style="color:#1F45FC" target="blank">PDF</a>] [<a href="https://github.com/braultjosh/SW2007_Table6" style="color:#1F45FC">Replication Files</a>] </li></font>
 
 </ol>
