@@ -5,7 +5,6 @@ permalink: /research/
 sidebar_link: true
 sidebar_sort_order: 2
 ---
-<p style = "font-family:courier;">
 ### <font size="6"> Research  </font>
 
 ### <font size="4">  Working papers  </font>
