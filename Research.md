@@ -11,6 +11,8 @@ sidebar_sort_order: 2
 
 <ol>
 
+<font size="2"> <li>  <b> Taylor Rules and the Prospect of Indeterminacy: A Bayesian Econometric Investigation </b>. Last updated: December, 2020. [<a href="https://braultjosh.github.io/pdfs/BP_2020_Indeterminacy.pdf" style="color:#1F45FC" target="blank">PDF</a>] [<a href="https://braultjosh.github.io/pdfs/BP_Appendix.pdf" style="color:#1F45FC" target="blank">Appendix</a>] </li></font>
+
 <font size="2"> <li>  <b> Monetary policy uncertainty and the cyclicality of interest rates</b>. [<a href="https://braultjosh.github.io/pdfs/jobmarketpaper.pdf" style="color:#1F45FC" target="blank">PDF</a>] [<strong><u>Job Market Paper</u></strong>]</li></font>
 
 <font size="2"> <li>  <b>  Is Unconventional Monetary Policy Stabilizing? Evidence From the Great Recession and Recovery Years </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). Last updated: July, 2020. [<a href="https://carleton.ca/economics/wp-content/uploads/Cewp20-11.pdf" style="color:#1F45FC" target="blank">PDF</a>]  </li></font>
