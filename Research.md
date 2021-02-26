@@ -11,7 +11,9 @@ sidebar_sort_order: 2
 
 <ol>
 
-<font size="2"> <li>  <b> Taylor Rules and the Prospect of Indeterminacy: A Bayesian Econometric Investigation </b> (with Louis Phaneuf). Last updated: December, 2020. [<a href="https://braultjosh.github.io/pdfs/BP_2020_Indeterminacy.pdf" style="color:#1F45FC" target="blank">PDF</a>] [<a href="https://braultjosh.github.io/pdfs/BP_Appendix.pdf" style="color:#1F45FC" target="blank">Appendix</a>] </li></font>
+<font size="2"> <li>  <b> Macroeconomic Fluctuations Without Indeterminacy </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). Last updated: February, 2021. [<a href="https://carleton.ca/economics/wp-content/uploads/cewp21-01.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
+
+<font size="2"> <li>  <b> Should the Fed Target The Output Gap or Output Growth? A Bayesian Econometric Investigation Into Indeterminacy </b> (with Louis Phaneuf). Last updated: February, 2021. [<a href="https://braultjosh.github.io/pdfs/BP_2021_Indeterminacy.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
 <font size="2"> <li>  <b> Monetary policy uncertainty and the cyclicality of interest rates</b>. Last updated: January, 2021. [<a href="https://braultjosh.github.io/pdfs/jobmarketpaper.pdf" style="color:#1F45FC" target="blank">PDF</a>] [<strong><u>Job Market Paper</u></strong>]</li></font>
 
