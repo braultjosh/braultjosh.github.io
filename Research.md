@@ -11,7 +11,7 @@ sidebar_sort_order: 2
 
 <ol>
 
-<font size="2"> <li>  <b>  Dissecting the Sources of the Great Recession and Beyond: Some Useful Lessons  </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). Last updated: March, 2021. [<a href="https://carleton.ca/economics/wp-content/uploads/Dissecting_GR.pdf" style="color:#1F45FC" target="blank">PDF</a>]  </li></font>
+<font size="2"> <li>  <b>  Dissecting the Sources of the Great Recession and Beyond: Some Useful Lessons  </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). Last updated: March, 2021. [<a href="https://braultjosh.github.io/pdfs/Dissecting_GR.pdf" style="color:#1F45FC" target="blank">PDF</a>]  </li></font>
 
 <font size="2"> <li>  <b> Large Firms and the Cyclicality of US Labour Productivity </b> (with Hashmat Khan). Last updated: March, 2021. [<a href="https://carleton.ca/economics/wp-content/uploads/cewp21-02.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
