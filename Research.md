@@ -13,7 +13,7 @@ sidebar_sort_order: 2
 
 <font size="2"> <li>  <b> Large Firms and the Cyclicality of US Labour Productivity </b> (with Hashmat Khan). Last updated: March, 2021. [<a href="https://carleton.ca/economics/wp-content/uploads/cewp21-02.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
-<font size="2"> <li>  <b> Macroeconomic Fluctuations Without Indeterminacy </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). Last updated: February, 2021. [<a href="https://carleton.ca/economics/wp-content/uploads/cewp21-01.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
+<font size="2"> <li>  <b> Macroeconomic Fluctuations Without Indeterminacy </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). Last updated: February, 2021. [<a href="https://braultjosh.github.io/pdfs/Macro_Fluctuations.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
 <font size="2"> <li>  <b> Should the Fed Target The Output Gap or Output Growth? A Bayesian Econometric Investigation Into Indeterminacy </b> (with Louis Phaneuf). Last updated: February, 2021. [<a href="https://braultjosh.github.io/pdfs/BP_2021_Indeterminacy.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
