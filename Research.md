@@ -11,6 +11,8 @@ sidebar_sort_order: 2
 
 <ol>
 
+<font size="2"> <li>  <b>  Dissecting the Sources of the Great Recession and Beyond: Some Useful Lessons  </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). Last updated: March, 2021. [<a href="https://carleton.ca/economics/wp-content/uploads/Dissecting_GR.pdf" style="color:#1F45FC" target="blank">PDF</a>]  </li></font>
+
 <font size="2"> <li>  <b> Large Firms and the Cyclicality of US Labour Productivity </b> (with Hashmat Khan). Last updated: March, 2021. [<a href="https://carleton.ca/economics/wp-content/uploads/cewp21-02.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
 <font size="2"> <li>  <b> Macroeconomic Fluctuations Without Indeterminacy </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). Last updated: February, 2021. [<a href="https://braultjosh.github.io/pdfs/Macro_Fluctuations.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
@@ -18,8 +20,6 @@ sidebar_sort_order: 2
 <font size="2"> <li>  <b> Should the Fed Target The Output Gap or Output Growth? A Bayesian Econometric Investigation Into Indeterminacy </b> (with Louis Phaneuf). Last updated: February, 2021. [<a href="https://braultjosh.github.io/pdfs/BP_2021_Indeterminacy.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
 <font size="2"> <li>  <b> Monetary policy uncertainty and the cyclicality of interest rates</b>. Last updated: January, 2021. [<a href="https://braultjosh.github.io/pdfs/jobmarketpaper.pdf" style="color:#1F45FC" target="blank">PDF</a>] [<strong><u>Job Market Paper</u></strong>]</li></font>
-
-<font size="2"> <li>  <b>  Is Unconventional Monetary Policy Stabilizing? Evidence From the Great Recession and Recovery Years </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). Last updated: July, 2020. [<a href="https://carleton.ca/economics/wp-content/uploads/Cewp20-11.pdf" style="color:#1F45FC" target="blank">PDF</a>]  </li></font>
 
 <font size="2"> <li>  <b> Detecting cyclical asymmetry: The filter matters </b>. Last updated: March, 2020. [<a href="https://braultjosh.github.io/pdfs/Filtering_Brault_V5.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
