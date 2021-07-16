@@ -7,23 +7,11 @@ sidebar_sort_order: 1
 ### About
 <font size="3">
 <p style="line-height:1.2">
-Welcome to my website. I am a PhD candidate in Economics at Carleton University in Ottawa, Canada. I am in my fifth year of the PhD program. My research interests are in macroeconomics, business cycles, and monetary policy.
+Welcome to my website, my name is Joshua Brault. I am currently a Post-Doctoral Fellow at the University of Quebec in Montreal (UQAM). My research interests are in macroeconomics, business cycles, and monetary policy.
 <br>
-<br>
-<b> I am on the job market during the 2020-2021 academic year. I am available for online interviews. </b>
-<br>
-<br>
-To read my Curriculum Vitae, please click <a href="https://braultjosh.github.io/pdfs/brault_cv_jobmarket.pdf" style="color:#1F45FC" target="blank">[here]</a>.
-<br>
-<br>
-You can contact me via email at: joshua [dot] brault [at] carleton [dot] ca
-<br>
-<br>
-Relevant links:
+[<a href="https://braultjosh.github.io/pdfs/brault_cv.pdf" style="color:#1F45FC">Curriculum Vitae</a>]
 <br>
 [<a href="https://scholar.google.com/citations?user=wceJQW4AAAAJ&hl=en&oi=ao" style="color:#1F45FC">Google Scholar</a>]
 <br>
-[<a href="https://ideas.repec.org/f/pbr735.html" style="color:#1F45FC">RePEc</a>]
-<br>
-[<a href="https://orcid.org/0000-0001-7286-3495" style="color:#1F45FC">ORCID</a>]
+Email: braultjoshua@gmail.com
 </p>
