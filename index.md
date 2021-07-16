@@ -10,7 +10,7 @@ sidebar_sort_order: 1
 Welcome to my website, my name is Joshua Brault. I am currently a Post-Doctoral Fellow at the University of Quebec in Montreal (UQAM). My research interests are in macroeconomics, business cycles, and monetary policy.
 <br>
 <br>
-Email: <a href="braultjoshua@gmail.com"  style="color:#1F45FC">braultjoshua@gmail.com</a>
+Email: <a href="mailto:braultjoshua@gmail.com"  style="color:#1F45FC">braultjoshua@gmail.com</a>
 <br>
 <br>
 [<a href="https://braultjosh.github.io/pdfs/brault_cv.pdf" style="color:#1F45FC">Curriculum Vitae</a>]
