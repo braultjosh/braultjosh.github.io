@@ -19,9 +19,9 @@ sidebar_sort_order: 2
 
 <font size="2"> <li>  <b> Should the Fed Target The Output Gap or Output Growth? A Bayesian Econometric Investigation Into Indeterminacy </b> (with Louis Phaneuf). [<a href="https://braultjosh.github.io/pdfs/BP_2021_Indeterminacy.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
-<font size="2"> <li>  <b> Monetary policy uncertainty and the cyclicality of interest rates</b>. Last updated: January, 2021. [<a href="https://braultjosh.github.io/pdfs/jobmarketpaper.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
+<font size="2"> <li>  <b> Monetary policy uncertainty and the cyclicality of interest rates</b>. [<a href="https://braultjosh.github.io/pdfs/jobmarketpaper.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
-<font size="2"> <li>  <b> Detecting cyclical asymmetry: The filter matters </b>. Last updated: March, 2020. [<a href="https://braultjosh.github.io/pdfs/Filtering_Brault_V5.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
+<font size="2"> <li>  <b> Detecting cyclical asymmetry: The filter matters </b>. [<a href="https://braultjosh.github.io/pdfs/Filtering_Brault_V5.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
 </ol>
 
