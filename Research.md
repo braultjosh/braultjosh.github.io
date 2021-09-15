@@ -11,7 +11,7 @@ sidebar_sort_order: 2
 
 <ol>
 
-<font size="2"> <li> Some International Evidence on Indebted Demand (with Hashmat Khan). [<a href="https://carleton.ca/economics/wp-content/uploads/cewp21-10.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
+<font size="2"> <li> <b>  Some International Evidence on Indebted Demand </b> (with Hashmat Khan). [<a href="https://carleton.ca/economics/wp-content/uploads/cewp21-10.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
 <font size="2"> <li>  <b>  Did the Fed Remain at the ZLB Long Enough? Lessons from the 2008-2019 Period  </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). [<a href="https://braultjosh.github.io/pdfs/MP_2008-2019.pdf" style="color:#1F45FC" target="blank">PDF</a>]  </li></font>
 
