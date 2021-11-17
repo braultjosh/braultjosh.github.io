@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: teaching
 sidebar_link: false
 sidebar_sort_order: 3
 ---
