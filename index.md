@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-sidebar_link: false
+sidebar_link: true
 sidebar_sort_order: 1
 ---
 ### About
