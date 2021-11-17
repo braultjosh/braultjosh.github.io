@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-sidebar_link: false
+sidebar_link: true
 sidebar_sort_order: 3
 ---
 
