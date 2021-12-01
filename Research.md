@@ -13,7 +13,7 @@ sidebar_sort_order: 2
 
 <font size="2"> <li> <b>  Indebted Demand in a Two Period Consumption-Saving Model </b> (with Hashmat Khan). [<a href="https://carleton.ca/economics/wp-content/uploads/cewp21-13.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
-<font size="2"> <li> <b>  Some International Evidence on Indebted Demand </b> (with Hashmat Khan). [<a href="https://carleton.ca/economics/wp-content/uploads/cewp21-10-1.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
+<font size="2"> <li> <b>  Some International Evidence on Inequality, Demographics, and Long-term Interest Rates </b> (with Hashmat Khan). [<a href="https://carleton.ca/economics/wp-content/uploads/cewp21-10-1.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
 <font size="2"> <li>  <b> Higher Order Interest-Smoothing, Time-Varying Inflation Target and the Prospect of Indeterminacy </b> (with Louis Phaneuf). [<a href="https://braultjosh.github.io/pdfs/BP_2021_Indeterminacy.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
