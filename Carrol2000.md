@@ -16,9 +16,9 @@ The paper relies on a combination of models and informal evidence, and can reall
 
 <ol>
 
-<font size="2"> <li> Can standard life cycle models (or variants of it) capture household consumption and saving patterns of the ultra wealthy?
+<font size="4"> <li> Can standard life cycle models (or variants of it) capture household consumption and saving patterns of the ultra wealthy? </li>
 
-<font size="2"> <li> Informal evidence on why the ultra wealthy save
+<font size="4"> <li> Informal evidence on why the ultra wealthy save </li>
 
 </ol>
 
