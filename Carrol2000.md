@@ -25,6 +25,6 @@ Finally, Carroll raises some normative issues if individuals do behave according
 
 <hr>
 
-[1] This point is quite nuanced and open to some debate. What we are often interested in, is the saving rate out of <i> permanent income </i>. The problem is that we don't observe permanent income, and this is something we try to back out of the observed data. There is a great thread on this debate by <a href="https://twitter.com/ben_moll/status/1433057827392827394" style="color:#1F45FC" target="blank">Ben Moll</a>.
+[1] This point is quite heavily debated. What we are often interested in, is the saving rate out of <i> permanent income </i>. The problem is that we don't observe permanent income. So when we see high income individuals saving a lot, is it because there are experiencing large positive transitory income shocks or do saving rates really rise with permament income? There is a great thread on this by <a href="https://twitter.com/ben_moll/status/1433057827392827394" style="color:#1F45FC" target="blank">Ben Moll</a>.
 
 [2] It would be interesting to know if retired households hold more of their wealth in annuities in places with more healthcare coverage. The idea being that older households have better healthcare coverage and don't need to insure themselves as much, leading to more weighting on mortality risk.
