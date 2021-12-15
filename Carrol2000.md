@@ -24,3 +24,5 @@ Finally, Carroll raises some normative issues if individuals do behave according
 
 
 <hr>
+
+[1] It would be interesting to know if retired households hold more of their wealth in annuities in places with more healthcare coverage. The idea being that older households have better healthcare coverage and don't need to insure themselves as much, leading to more weighting on mortality risk.
