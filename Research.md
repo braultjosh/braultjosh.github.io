@@ -15,7 +15,8 @@ sidebar_sort_order: 2
 
 <font size="2"> <li> <b>  Some International Evidence on Inequality, Demographics, and Long-term Interest Rates </b> (with Hashmat Khan). [<a href="https://carleton.ca/economics/wp-content/uploads/cewp21-10-5.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
-<font size="2"> <li>  <b> Higher Order Interest-Smoothing, Time-Varying Inflation Target and the Prospect of Indeterminacy </b> (with Louis Phaneuf). [<a href="https://braultjosh.github.io/pdfs/BP_2022_Indeterminacy.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
+<font size="2"> <li>  <b> Second Order Interest-Smoothing, Time-Varying Inflation
+Target and The Prospect of Indeterminacy </b> (with Louis Phaneuf). [<a href="https://braultjosh.github.io/pdfs/BP_2022_Indeterminacy.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
 <font size="2"> <li>  <b>  Did the Fed Remain at the ZLB Long Enough? Lessons from the 2008-2019 Period  </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). [<a href="https://braultjosh.github.io/pdfs/MP_2008-2019.pdf" style="color:#1F45FC" target="blank">PDF</a>]  </li></font>
 
