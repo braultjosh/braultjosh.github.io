@@ -20,7 +20,7 @@ Target and The Prospect of Indeterminacy </b> (with Louis Phaneuf). [<a href="ht
 
 <font size="2"> <li>  <b>  Did the Fed Remain at the ZLB Long Enough? Lessons from the 2008-2019 Period  </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). [<a href="https://braultjosh.github.io/pdfs/MP_2008-2019.pdf" style="color:#1F45FC" target="blank">PDF</a>]  </li></font>
 
-<font size="2"> <li>  <b> Large Firms and the Cyclicality of US Labour Productivity </b> (with Hashmat Khan). [<a href="https://carleton.ca/economics/wp-content/uploads/cewp21-02-1.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
+<font size="2"> <li>  <b> Large Firms and the Cyclicality of US Labour Productivity </b> (with Hashmat Khan). [<a href="https://braultjosh.github.io/pdfs/Largefirm_20220217.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
 <font size="2"> <li>  <b> Macroeconomic Fluctuations Without Indeterminacy </b> (with Hashmat Khan, Louis Phaneuf, and Jean-Gardy Victor). [<a href="https://braultjosh.github.io/pdfs/Macro_Fluctuations.pdf" style="color:#1F45FC" target="blank">PDF</a>] </li></font>
 
