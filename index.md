@@ -7,7 +7,7 @@ sidebar_sort_order: 1
 ### About
 <font size="3">
 <p style="line-height:1.2">
-Welcome to my website, my name is Joshua Brault. I am currently a Post-Doctoral Fellow at the Université du Québec à Montréal (UQAM). My research interests are in macroeconomics, business cycles, and monetary policy.
+Welcome to my website, my name is Joshua Brault. I am a Senior Data Scientist in the Data Science Department at the Bank of Canada. My research interests are at the intersection of data and macroeconomic models including business cycles, monetary policy, and quantitative methods
 <br>
 <br>
 Email: <a href="mailto:braultjoshua@gmail.com"  style="color:#1F45FC">braultjoshua@gmail.com</a>
