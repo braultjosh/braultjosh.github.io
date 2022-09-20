@@ -32,7 +32,7 @@ Target and The Prospect of Indeterminacy </b> (with Louis Phaneuf). [<a href="ht
 
 <ol>
 
-<font size="2"> <li>  <b> The real interest rate channel <em> is </em> structural in contemporary New-Keynesian models: A Note </b> (with Hashmat Khan).  Forthcoming <i> Journal of Money, Credit and Banking</i>. October, 2019. [<a href="https://braultjosh.github.io/pdfs/BK_NK_Note.pdf" style="color:#1F45FC">PDF</a>]  [<a href="https://github.com/braultjosh/BK2019JMCB" style="color:#1F45FC">Replication Files</a>] [<a href="https://onlinelibrary.wiley.com/doi/10.1111/jmcb.12894" style="color:#1F45FC">Publisher's Version</a>] </li> </font>
+<font size="2"> <li>  <b> The real interest rate channel <em> is </em> structural in contemporary New-Keynesian models: A Note </b> (with Hashmat Khan). <i> Journal of Money, Credit and Banking</i>, Volume 54, Issue 5, August 2022, 1551-1563. [<a href="https://braultjosh.github.io/pdfs/BK_NK_Note.pdf" style="color:#1F45FC">PDF</a>]  [<a href="https://github.com/braultjosh/BK2019JMCB" style="color:#1F45FC">Replication Files</a>] [<a href="https://onlinelibrary.wiley.com/doi/10.1111/jmcb.12894" style="color:#1F45FC">Publisher's Version</a>] </li> </font>
 
 <font size="2"> <li> <b> The Shifts in Lead-Lag Properties of the US Business Cycle </b> (with Hashmat Khan). <i> Economic Inquiry </i>, Volume 58, Issue 1, January 2020, 319-334. [<a href="https://braultjosh.github.io/pdfs/BK_LeadLag.pdf" style="color:#1F45FC">PDF</a>] [<a href="https://braultjosh.github.io/pdfs/LeadLag_Appendix.pdf" style="color:#1F45FC">Online Appendix</a>] [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.12841" style="color:#1F45FC">Publisher's Version</a>]  </li> </font>
 
